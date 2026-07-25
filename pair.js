@@ -29,7 +29,7 @@ const {
   jidNormalizedUser,
   downloadContentFromMessage,
   DisconnectReason
-} = require('dct-dula-baileys');
+} = require('@whiskeysockets/baileys');
 const { title } = require('process');
 
 // ---------------- CONFIG ----------------
