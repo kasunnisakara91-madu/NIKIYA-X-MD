@@ -4399,7 +4399,7 @@ _${e.message}_`
         // 𝐀𝚂𝙷𝙸𝚈𝙰-𝐌𝙳 4.0.0𝗩 🥷🇱🇰𝗢ᴡɴᴇʀ 𝗖ᴀꜱᴇ
 case 'owner':
 case 'madusanka': {
-            const ownerNumber = '+94773495139';
+            const ownerNumber = '+94756331255';
             const ownerName = '☠️𝐍𝐈𝐊𝐈𝐘𝐀 𝐗 𝐌𝐃☠️';
             const organization = '*𝙼𝙰𝙳𝚄𝚂𝙰𝙽𝙺𝙰 𝙾𝚆𝙽𝙴𝚁 𝙱𝚈 𝙳𝙰𝙼𝙸𝚃𝙷 𝙼𝙰𝙳𝚄𝚂𝙰𝙽𝙺𝙰 𝙱𝙾𝚃 𝙳𝙴𝚅𝙰𝙻𝙾𝙿𝙰𝚁';
             const logoUrl = 'https://files.catbox.moe/z99gzh.mp4';
