@@ -1,2 +1,0 @@
-# NIKIYA-X-MD
-Nikiya
